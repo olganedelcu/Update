@@ -55,7 +55,7 @@ console.log(z);
 var r = 3;
 r /= 2;
 console.log(r);
-var stupidKid = 'He bosted about his kid and don\'t realized he was "retarded"';
+var iceCream = ’He bosted about his icecream and don\‘t realized it was already "melting"’;
 console.log(stupidKid);
 var stream = 'I can use single quotes!! "excited"';
 console.log(stream);
